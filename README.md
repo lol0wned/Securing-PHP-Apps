@@ -1,5 +1,6 @@
 #Secure PHP Coding
 # Author: phphax
+(shout out to dustin for help contributing)
 
 1. Remote File Inclusion (RFI)
 2. Local File Inclusion (LFI)
