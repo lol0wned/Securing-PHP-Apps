@@ -1,5 +1,5 @@
 #Secure PHP Coding
-# Author: lol0wned
+# Author: ret2win
 (shout out to dustin for help contributing)
 
 1. Remote File Inclusion (RFI)
